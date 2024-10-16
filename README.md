@@ -1,8 +1,22 @@
-# React + Vite
+## Name: Nguyễn Tuấn Đạt
+## MSSV: 21120172
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# How setup and run
+1. Install nodejs 
+2. Run command: npm  install
+3. Run command: npm run dev
 
-Currently, two official plugins are available:
+# Evaluate
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Criteria                |Description                                                                                       |Point|Status|
+| API Integration         | Successfully fetches data from the Unsplash API, handles loading and error states well.          | 1   | 100% |
+| Photo Grid/List Display | Displays photos in a responsive, well-styled grid/list with author info.                         | 2   | 100% |
+| Infinite Scroll         | Infinite scroll works smoothly, with seamless loading of new photos and clear loading indicators.| 1   | 100% |
+| Photo Details View      | Displays full photo, title, author, and description. Provides a good user experience.            | 2   | 100% |
+| Routing and Navigation  | URLs are intuitive and functional.                                                               | 1   | 100% |
+| Styling and Responsiveness | App is well-designed, fully responsive across devices, with additional style considerations.  | 1   | 100% |
+| Code Quality            | Code is well-organized, with comments, reusable components, and follows React best practices.    | 1   | 100% |
+| Public hosting          | Upload to a public host                                                                          | 1   | 100% |
+
+# Link demo
+Demo: 
