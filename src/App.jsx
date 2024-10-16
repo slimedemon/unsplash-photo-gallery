@@ -8,8 +8,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/photos/:id" element={<PhotoPage />} />
+        <Route path="/unsplash-photo-gallery" element={<HomePage />} />
+        <Route path="/unsplash-photo-gallery/photos/:id" element={<PhotoPage />} />
       </Routes>
     </BrowserRouter>
   );

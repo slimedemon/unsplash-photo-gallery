@@ -29,7 +29,7 @@ const PhotoPage = () => {
 
   return (
     <div>
-      <Link to="/" className="back-button">Back to Home</Link>
+      <Link to="/unsplash-photo-gallery/" className="back-button">Back to Home</Link>
       {photo ? (
         <PhotoDetails photo={photo} />
       ) : (

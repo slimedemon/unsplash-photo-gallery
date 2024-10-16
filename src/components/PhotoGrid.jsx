@@ -13,7 +13,7 @@ const PhotoGrid = ({ photos, loadMore, hasMore }) => {
     >
       <div className="photo-grid">
         {photos.map(photo => (
-          <Link to={`/photos/${photo.id}`} key={photo.id}>
+          <Link to={`/unsplash-photo-gallery/photos/${photo.id}`} key={photo.id}>
             <div className="photo-item">
               <img src={photo.urls.thumb} alt={photo.alt_description} />
               <p>Author: {photo.user.name}</p>
