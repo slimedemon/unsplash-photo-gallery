@@ -19,5 +19,7 @@
 | Code Quality            | Code is well-organized, with comments, reusable components, and follows React best practices.    | 1   | 100% |
 | Public hosting          | Upload to a public host                                                                          | 1   | 100% |
 
+**Total:** 10
+
 # Link demo
 Demo: https://slimedemon.github.io/unsplash-photo-gallery/
