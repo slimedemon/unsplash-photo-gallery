@@ -19,4 +19,4 @@
 | Public hosting          | Upload to a public host                                                                          | 1   | 100% |
 
 # Link demo
-Demo: 
+Demo: https://slimedemon.github.io/unsplash-photo-gallery/
