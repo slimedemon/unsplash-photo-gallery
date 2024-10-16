@@ -9,6 +9,7 @@
 # Evaluate
 
 | Criteria                |Description                                                                                       |Point|Status|
+|-------------------------|--------------------------------------------------------------------------------------------------|-----|------|
 | API Integration         | Successfully fetches data from the Unsplash API, handles loading and error states well.          | 1   | 100% |
 | Photo Grid/List Display | Displays photos in a responsive, well-styled grid/list with author info.                         | 2   | 100% |
 | Infinite Scroll         | Infinite scroll works smoothly, with seamless loading of new photos and clear loading indicators.| 1   | 100% |
